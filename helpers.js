@@ -57,42 +57,42 @@ exports.skills = [{
 
 exports.projectThumbnails = [{
         title: "Health Monitoring Portal",
-        href: "https://d3ga.github.io/marvel-api/",
+        href: "",
         src: "/images/SIH.png",
         alt: "Thumbnail of project Health Monitoring Porytal",
         description: "Portal for monitoring the health of Indian Army in Combat situation. Builded in Smart India Hackathon DRDO's problem statement - Slodier Strap using Angular and NodeJS"
     },
     {
         title: "CrowdStrike Hackathon Solutions",
-        href: "https://d3ga.github.io/user-geolocation-info/",
+        href: "",
         src: "/images/Hakathon.png",
         alt: "Thumbnail of problem solutions for CrowdStrike Hackathon",
         description: "Proposed solutions for problem statements on Airline and Airport Management using Maxhine Learning and Data Science in CrowdStrike Hackathon - 2020"
     },
     {
         title: "Online Elecronics Shopping Site",
-        href: "https://d3ga.github.io/beer-search/",
+        href: "",
         src: "/images/Samsung.png",
         alt: "Thumbnail of project on Ecommerce Site",
         description: "Delevoped an Electronic Shopping Website resembling SAMSUNG as a final project for Angular and NodeJS Application Delevopment Course"
     },
     {
         title: "IEEE-SPIT Student Branch",
-        href: "https://github-api.netlify.com/",
+        href: "",
         src: "/images/IEEE.png",
         alt: "Thumbnail of project IEEE-SPIT",
         description: "Using Angular created a front-end website for IEEE-SPIT as a communicator for various events at national and college level to students and IEEE-members"
     },
     {
         title: "Blender Models",
-        href: "https://codepen.io/dega_k/pen/XzGNPX",
+        href: "",
         src: "/images/Model.png",
         alt: "Thumbnail of project Blender Models",
         description: "Various models builded in Blender like final product model, case for PCB, etc."
     },
     {
         title: "Airline Reservation System",
-        href: "https://react-todo-app.kostasdegaitas.de/",
+        href: "",
         src: "/images/Airline.png",
         alt: "Thumbnail of project React ToDo",
         description: "Created an Application with OOP in Java with reservation and cancellation in Economy class    / Business class options availbility"
