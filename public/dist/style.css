@@ -12721,6 +12721,28 @@ button:focus {
     margin-bottom: 0
 }
 
+.Resume {
+    text-align: center;
+    padding-top: 30px;
+}
+
+.btn {
+    border: 2px solid rgb(221, 27, 43);
+    color: rgb(213, 9, 9);
+    border-radius: 10px;
+    padding: 6px 20px;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+
+/* Darker background on mouse-over */
+
+.btn:hover {
+    background-color: rgb(211, 29, 44);
+    color: white;
+}
+
 .skills-container {
     margin-top: 4rem
 }
